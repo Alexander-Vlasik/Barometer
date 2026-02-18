@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Barometer</string>
+    <string name="fgs_channel_name">Pressure sampling</string>
+    <string name="fgs_title">Pressure sampling</string>
+    <string name="fgs_text">Collecting one pressure sample</string>
 </resources>
